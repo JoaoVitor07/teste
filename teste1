@@ -2,6 +2,5 @@
 
 int main  (){
   printf("teste");
-  printf("outro teste");
-  printf("teste");
+  printf("subindo pro git");
 }
